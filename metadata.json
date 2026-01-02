@@ -1,0 +1,5 @@
+{
+  "name": "Steganography Studio",
+  "description": "A web application to hide secret text messages within PNG images using Least Significant Bit (LSB) steganography. You can encode your message into an image to create a steganogram, and decode messages from steganogram images to reveal the hidden text.",
+  "requestFramePermissions": []
+}
